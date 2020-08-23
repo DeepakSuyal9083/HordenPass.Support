@@ -9,38 +9,10 @@ Super simple to learn but "HARD TO SCORE".
 
 1. Free to Play, Super Simple to PLAY but "HARD To SCORE".
 2. Play both in offline and online mode.
-3. Play daily championship to win money prize.
+3. Play daily championship.
 4. Easy to play.
 5. Simplest game system, Designed for one Handheld Gameplay.
 6. Leaderboard supported.
-
-
-### RULES..!!!!
-
-1. Click on the CHAMPIONSHIP button to play and participate in CHAMPIONSHIP(internet required)
-
-2. Winning prize are given everyday.
-
-PRIZES :
- - 1st           - 1.00 USD
- - 2nd           - 0.50 USD
- - 3rd           - 0.30 USD
- - 4th to 10th   - 0.15 USD
- - 11th to 20th  - 0.07 USD
-
-3. Winning amount will be given to you within 24 hours.
-
-4. If you managed to score 1st to 20th position then your name will be shown for whole day in the game.
-
-5. You can not participate in championship while you are offline but still can play offline mode.
-
-6. Daily championship will end at 11:59 pm ( IST ) , and will be started at 12:00 am(IST), all prizes are given within 24 hours.
-
-7. To Redeem prizes winner are requested to tap on Dollar icon ( which will appear on winner's home screen).
-
-8. Winners are requested to enter valid information to redeem prizes .
-
-NOTE :- In coming updates reward prizes will be increased.
 
 ## Terms & Conditions
 
